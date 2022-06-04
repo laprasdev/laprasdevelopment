@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX and Decentralized Systems
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on DeFi
-- 📫 How to reach me @lapras_0x on twitter
+- 📫 How to reach me @0x_lapras on twitter
 
 <!---
 laprasdevelopment/laprasdevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
